@@ -5,6 +5,9 @@
 	<key>fileTypes</key>
 	<array>
 		<string>tcl</string>
+		<string>ecc</string>
+		<string>cdl</string>
+		<string>ecos.db</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>^#!/.*\btclsh\b</string>
